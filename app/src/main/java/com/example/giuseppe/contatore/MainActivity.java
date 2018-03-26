@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Button vAzzera;
     private CheckBox vRaddoppio;
 
-    private int Contatore=0;
+    private int Contatore=100;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
