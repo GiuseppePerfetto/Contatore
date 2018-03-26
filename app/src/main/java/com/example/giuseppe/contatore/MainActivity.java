@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         //ciao
         //ciao peppe
+        //ciao manfredi
         vAzzera.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
