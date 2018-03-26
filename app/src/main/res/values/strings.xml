@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contatore</string>
+    <string name="Aumenta">+</string>
+    <string name="Diminuisci">-</string>
 </resources>
